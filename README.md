@@ -2,7 +2,9 @@
 Ivet Gil-Chavarría1, N. Sofía Huerta-Pacheco 1, 2, Chantal Loyzance 1, Mirsha Quinto-Sanchez 3 
 
 1 National School of Forensic Sciences, National Autonomous University of Mexico, Mexico City, 04510, México
+
 2 SECIHTI, Mexico City, 03940, Mexico
+
 3 Instituto de Investigaciones Antropológicas, National Autonomous University of Mexico, Mexico City, 04510, México
 
 Abstract
