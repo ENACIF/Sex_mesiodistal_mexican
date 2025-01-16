@@ -15,8 +15,6 @@ Keywords: Sexual dimorphism, Canine, Mesiodistal distance, Mexican population, B
 
 In this repository you can find:
 
-Data (Original data and filtered data)
-Code of several analysis (summary tables and multivariate analysis)
-Result
+Data (Original data and filtered data), Code of several analysis (summary tables and multivariate analysis) and Result (Figures and text)
 
 Contact: nshuerta@enacif.unam.mx
