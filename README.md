@@ -15,8 +15,8 @@
 
 ##### In this repository you can find:
 
-- ##### [Data](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Data) (Original data and filtered data)
-- ##### [Code](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Code) of several analysis (summary tables and multivariate analysis)
-- ##### [Result](https://github.com/nshuerta-ForenseUNAM/Sex_mesiodistal_mexican/tree/Result)
+- ##### [Data](https://github.com/ENACIF/Sex_mesiodistal_mexican/tree/main/Data) (Original data and filtered data)
+- ##### [Code](https://github.com/ENACIF/Sex_mesiodistal_mexican/tree/main/Code) of several analysis (summary tables and multivariate analysis)
+- ##### [Result](https://github.com/ENACIF/Sex_mesiodistal_mexican/tree/main/Result) 
 
 ##### Contact: **nshuerta@enacif.unam.mx** 
