@@ -4,7 +4,7 @@
 
 ###### <sup>1</sup> National School of Forensic Sciences, National Autonomous University of Mexico, Mexico City, 04510, México
 ###### <sup>2</sup> SECIHTI, Mexico City, 03940, Mexico
-###### <sup>2</sup> Instituto de Investigaciones Antropológicas, National Autonomous University of Mexico, Mexico City, 04510, México
+###### <sup>3</sup> Instituto de Investigaciones Antropológicas, National Autonomous University of Mexico, Mexico City, 04510, México
 
 **Abstract**
 
